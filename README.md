@@ -34,4 +34,3 @@
  <h1>⭐github Stats⭐</h1>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mani703&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mani703&layout=compact)
