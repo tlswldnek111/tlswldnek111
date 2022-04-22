@@ -1,7 +1,8 @@
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jiwoo&fontSize=90&align=center)
 <br>
 <br>
-
+</div>
 <div align=center>
  <h1>🔥Tech Stack🔥</h1>
  </div>
